@@ -29,7 +29,7 @@ The goal of this project is to create a deep learning model that can accurately 
    - Reporting metrics such as precision, recall, and F1-score for each class.
 
 5. **GitHub Repository Structure**:
-   - **`scraper.py`**: Main script containing the entire TensorFlow pipeline from data loading to model evaluation.
+   - **`app.py`**: Main script containing the entire TensorFlow pipeline from data loading to model evaluation.
    - **`requirements.txt`**: List of Python dependencies required to run the project.
    - **`README.md`**: Markdown file providing an overview of the project, installation instructions, usage examples, and results.
 
@@ -41,7 +41,7 @@ The goal of this project is to create a deep learning model that can accurately 
 - Matplotlib
 - scikit-learn
 - Seaborn
-- PIL (Pillow)
+- Pillow (PIL)
 
 ## Installation and Usage
 
@@ -74,7 +74,7 @@ The goal of this project is to create a deep learning model that can accurately 
 
 ## Example Usage
 
-```python
+```bash
 python app.py
 ```
 
