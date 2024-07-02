@@ -1,5 +1,3 @@
----
-
 # Alzheimer's Dataset Image Classification using TensorFlow
 
 This project uses TensorFlow to build and train a convolutional neural network (CNN) for classifying images from the Alzheimer's Dataset. The CNN is designed to classify images into four categories: Mild Demented, Moderate Demented, Non-Demented, and Very Mild Demented. It includes data preprocessing, model building, training, evaluation, and visualization of performance metrics.
@@ -27,11 +25,11 @@ The goal of this project is to create a deep learning model that can accurately 
    - Saving the trained model in H5 format for deployment.
    - Testing the model on the separate test set and generating classification reports.
    - Reporting metrics such as precision, recall, and F1-score for each class.
-     
+
 5. **GitHub Repository Structure**:
-   - **app.py**: Main script containing the entire TensorFlow pipeline from data loading to model evaluation.
-   - **requirements.txt**: List of Python dependencies required to run the project.
-   - **README.md**: Markdown file providing an overview of the project, installation instructions, usage examples, and results.
+   - **`app.py`**: Main script containing the entire TensorFlow pipeline from data loading to model evaluation.
+   - **`requirements.txt`**: List of Python dependencies required to run the project.
+   - **`README.md`**: Markdown file providing an overview of the project, installation instructions, usage examples, and results.
 
 ## Requirements
 
@@ -49,7 +47,7 @@ The goal of this project is to create a deep learning model that can accurately 
 
    ```bash
    git clone https://github.com/Amrithesh-k/BLANKAi.git
-   cd BLANKAi
+   cd your_repository
    ```
 
 2. **Install Dependencies**:
@@ -95,6 +93,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - Inspiration and initial code structure derived from practical deep learning applications.
 - TensorFlow and Keras documentation and community for their valuable resources.
-
----
-
