@@ -27,7 +27,7 @@ The goal of this project is to create a deep learning model that can accurately 
    - Saving the trained model in H5 format for deployment.
    - Testing the model on the separate test set and generating classification reports.
    - Reporting metrics such as precision, recall, and F1-score for each class.
-
+     
 5. **GitHub Repository Structure**:
    - **`app.py`**: Main script containing the entire TensorFlow pipeline from data loading to model evaluation.
    - **`requirements.txt`**: List of Python dependencies required to run the project.
